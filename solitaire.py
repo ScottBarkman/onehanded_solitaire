@@ -1,7 +1,7 @@
 from __future__ import division
 import random
 
-desired_games = 1000
+desired_games = 1000000
 
 # Build a deck of cards 
 # Note: I'm sure there is a sexy list comprehension out there for this
