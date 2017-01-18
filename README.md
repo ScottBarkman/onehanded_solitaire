@@ -9,7 +9,7 @@ Basically, you tell it the desired amount of games to play, and your computer wi
 python solitaire.py
 ```
 
-Only requirement is that you have python3 (or 2.7... it'll _should_ work *shrug*)
+Only requirement is that you have python3 (or 2.7... it _should_ work *shrug*)
 ### TLDR; 
 
 odds of winning are around *0.75%*. So if you are a glutten for punishment, play one handed solitaire!
